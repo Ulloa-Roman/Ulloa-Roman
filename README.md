@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ulloa-Roman
 - 👀 I’m interested in learn all the relacionated in software development/code/computers
-- 🌱 I’m currently learning maths/code
+- 🌱 I’m currently learning maths/coding
 - 💞️ I’m looking to collaborate on an very productive-project
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him/his
