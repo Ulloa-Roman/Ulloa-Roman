@@ -2,9 +2,9 @@
 - 👀 I’m interested in learning everything related to software development/code/computers.
 - 🌱 I’m currently learning maths/coding.
 - 💞️ I’m looking to collaborate on a project. 
-- 📫 How to reach me: through my student email @ulloaromann.
+- 📫 How to reach me: through my student email ulloaromann@gmail.com.
 - 😄 Pronouns: he/him/his.
-- ⚡ Fun fact: I love cats. I do exercise and I love code at night drinking something iced.
+- ⚡ Fun fact: I love cats. I do exercise and I love code at night when I am drinking something iced.
 
 <!---
 Ulloa-Roman/Ulloa-Roman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
